@@ -1,0 +1,8 @@
+{
+    "unit": "Inch",
+    "refinement": "High",
+    "surfaceDeviation": 0.0005,
+    "normalDeviation": 10.0,
+    "maxEdgeLength": 10,
+    "aspectRatio": 10
+}
